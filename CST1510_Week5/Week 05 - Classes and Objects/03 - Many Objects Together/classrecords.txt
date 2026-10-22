@@ -1,0 +1,4 @@
+Temperature,25,40
+Humidity,95,90
+Pressure,120,100
+Noise,50,70
